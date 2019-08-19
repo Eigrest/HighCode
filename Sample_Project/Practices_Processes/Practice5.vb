@@ -31,7 +31,7 @@ Namespace Processes
 
                 'Define new action after load/change
                 Dim BlockReason As New FormAction
-                Dim actionDate As New FormAction
+                Dim BlockDate As New FormAction
                 BlockReason.PropertyName = "BlockReason"
                 BlockDate.PropertyName = "BlockDate"
 
